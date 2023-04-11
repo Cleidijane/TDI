@@ -24,18 +24,6 @@ void loop() {
   DigiKeyboard.print("reg add \"HKCU\\Control Panel\\Desktop\" /v Wallpaper /d \"%USERPROFILE%\\hack.jpg\" /f");
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(2000);
-  DigiKeyboard.print("reg add \"HKCU\\Control Panel\\Desktop\" /v Wallpaper /d \"%USERPROFILE%\\hack.jpg\" /f");
-  DigiKeyboard.sendKeyStroke(KEY_ENTER);
-  DigiKeyboard.delay(2000);
-  DigiKeyboard.print("reg add \"HKCU\\Control Panel\\Desktop\" /v Wallpaper /d \"%USERPROFILE%\\hack.jpg\" /f");
-  DigiKeyboard.sendKeyStroke(KEY_ENTER);
-  DigiKeyboard.delay(2000);
-  DigiKeyboard.print("RUNDLL32.EXE USER32.DLL,UpdatePerUserSystemParameters ,1 ,True");
-  DigiKeyboard.sendKeyStroke(KEY_ENTER);
-  DigiKeyboard.delay(2000);
-  DigiKeyboard.print("RUNDLL32.EXE USER32.DLL,UpdatePerUserSystemParameters ,1 ,True");
-  DigiKeyboard.sendKeyStroke(KEY_ENTER);
-  DigiKeyboard.delay(2000);
   DigiKeyboard.print("RUNDLL32.EXE USER32.DLL,UpdatePerUserSystemParameters ,1 ,True");
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(2000);
