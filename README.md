@@ -3,5 +3,5 @@
 DigiSpark-Scripts
 
 
-Script Descriptions
-Wallpaper_Changer: baixa e aplica um papel de parede via powershell.
+Descrição dos Script
+Altera Imagem da Area de Trabalho: baixa e aplica um papel de parede via powershell.
