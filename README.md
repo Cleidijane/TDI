@@ -11,7 +11,7 @@
 ## Dicas de uso
 Baixe o código `exemplo.ino` e abra na IDE do Arduino;
 
-Baixe o arquivo DigiKeyboard.h na internet e adicione na mesma pasta do código .ino;
+Baixe o arquivo `DigiKeyboard.h` na internet e adicione na mesma pasta do código .ino;
 
 Conecte o Digispark e o script vai ser carregado automaticamente;
 
