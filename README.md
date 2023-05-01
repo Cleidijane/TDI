@@ -1,4 +1,4 @@
-# TDI-PendiveHacker
+# TDI-Pendrive Hacker
 
 ## Funcionalidades
 
