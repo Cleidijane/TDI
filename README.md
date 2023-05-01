@@ -1,12 +1,18 @@
 # TDI-PendiveHacker
 
-DigiSpark-Scripts
+## Funcionalidades
 
+* [Alterar Background](https://github.com/Cleidijane/TDI-PendiveHacker/blob/main/background.ino)
 
-Descrição dos Scripts
+* [Código Shell Reversa](https://github.com/Cleidijane/TDI-PendiveHacker/blob/main/ShellReverseOneline.ps1)
 
-Altera Imagem da Area de Trabalho: baixa e aplica um papel de parede via powershell.
+* [Shell Reversa Oculta](https://github.com/Cleidijane/TDI-PendiveHacker/blob/main/Shell_Reverse.ino)
 
-ShellReverseOneline: Código para colocar no digispark e executar uma shell reversa via powershell.
+## Dicas de uso
+Baixe o código `exemplo.ino` e abra na IDE do Arduino;
 
-Shell_Reverse: Script que cria um navegador e baixa o arquivo para o computador alvo e executa via powershell fechando assim uma shell reversa.
+Baixe o arquivo DigiKeyboard.h na internet e adicione na mesma pasta do código .ino;
+
+Conecte o Digispark e o script vai ser carregado automaticamente;
+
+Ps.: Alguns códigos estão sujeitos a adaptações
